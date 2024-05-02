@@ -1,0 +1,17 @@
+eslint 安装 卡在 Installing : 不是卡 而是检查太慢
+
+changed 189 packages, and audited 183 packages in 2m
+
+45 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+Successfully created D:\www\javascript\vue\learn\prTodo\eslint.config.js file.
+
+2m内修改了189个包，审计了183个包
+
+45个包裹正在寻求资金
+   运行“npmfund”了解详细信息
+
+发现0个漏洞
+成功创建 D:\www\javascript\vue\learn\prTodo\eslint.config.js 文件
