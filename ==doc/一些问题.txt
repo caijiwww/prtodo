@@ -1,2 +1,0 @@
-在 Vite 项目中使用 <script setup> 方式导入 JavaScript 文件时，需要注意到在 Vue 3.x 中，组件的 template 选项已经被废弃，而且不再支持在组件选项中定义模板。这也是为什么你的 ButtonCounterJs 组件无法正常工作的原因。
-
