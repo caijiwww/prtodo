@@ -14,7 +14,8 @@ dist-ssr
 coverage
 *.local
 ==doc
-
+*复制*
+*新建*
 
 /cypress/videos/
 /cypress/screenshots/
